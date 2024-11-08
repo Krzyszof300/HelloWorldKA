@@ -1,2 +1,0 @@
-# HelloWorldKA
-testing2
