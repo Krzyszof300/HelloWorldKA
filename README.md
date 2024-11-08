@@ -1,4 +1,4 @@
-
+![headshot](Buddha.jpg)
 # HelloWorldKA
 
 One Paragraph of project description goes here
