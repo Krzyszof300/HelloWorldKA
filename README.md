@@ -87,3 +87,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+## Favourie Books
+
+* Book 1
+* Book 2
+* Book 3
